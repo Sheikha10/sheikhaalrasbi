@@ -1,4 +1,4 @@
 int a,b,c
 read a,b
-sum=a+b
-print sum 
+div=a/b
+print div
